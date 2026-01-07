@@ -4,6 +4,7 @@
 #
 #    ./scripts/pip-compile.sh
 #
+ctfdcli==latest
 alembic==1.16.4
     # via
     #   dataset
